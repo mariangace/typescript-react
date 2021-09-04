@@ -1,2 +1,2 @@
-# typescript-react
-# typescript-react
+# typescript-react apps repo
+
